@@ -1,0 +1,21 @@
+@import "~bootstrap/scss/bootstrap";
+
+:root {
+  --add-button: #186EC3;
+  --del-button: #D73846;
+  --check-button: #18A3B6;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  outline: none;
+  font-family: "Nunito", Roboto, system-ui, Tahoma, sans-serif;
+  box-sizing: border-box;
+  a {
+    :hover {
+      text-decoration: none;
+    }
+  }
+}
