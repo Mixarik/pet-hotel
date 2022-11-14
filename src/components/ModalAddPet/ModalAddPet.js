@@ -1,7 +1,5 @@
 import React from "react";
 
-import { DropDown } from "../DropDown";
-
 import styles from "./ModalAddPet.module.scss";
 
 const ModalAddPet = ({ switchModal }) => {
